@@ -1,6 +1,3 @@
-function sabiranje(a, b) {
-
+const sabiranje = (a, b) => {
     return a + b;
-
-
 }
