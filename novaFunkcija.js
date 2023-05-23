@@ -7,3 +7,5 @@ const proba = (a, b, c) => {
 
     return c;
 }
+
+export default proba;
